@@ -10,6 +10,8 @@ For each temperature, there are 20 dumps of 1,000 titles (you can see some good 
 * `temp_1_0`: Crazier, mostly syntactically correct. Funnier IMO. Almost all titles are unique and have not been posted on HN before.
 * `temp_1_3`: Even more crazy, occasionally syntactically correct.
 
+The `top_p` variants are generated with the same temperature using nucleus sampling at `0.9`. The results are slightly crazier at each corresponding temperature, but not off-the-rails.
+
 ## How To Get the Text and Train the Model
 
 The Hacker News titles were retrieved from BigQuery (w/ [a trick](https://stackoverflow.com/questions/7394748/whats-the-right-way-to-decode-a-string-that-has-special-html-entities-in-it/29824550#29824550) to decode HTML entities that occasionally clutter BQ data):

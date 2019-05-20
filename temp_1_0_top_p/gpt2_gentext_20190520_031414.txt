@@ -1,0 +1,2000 @@
+Doozer: Smart notifications for Slack
+====================
+Why don't more startups use Python? Simplifying data processing
+====================
+Behind the Scenes with GCHQ's UK “Reverse Encryption”
+====================
+Chromebooks and the ARM Revolution [video]
+====================
+Tantivy and Diving into a Car Crash
+====================
+As telecoms lay out the trap, pirates have to find their own adventure
+====================
+GNU Guix 0.7
+====================
+Samba 4.3.1 and earlier are vulnerable to Shellshock
+====================
+Introducing Skype Concurrency Test Tool
+====================
+Is Twitter the next Netscape?
+====================
+Keeping Ball In The New Backyard
+====================
+One Woman’s Brilliant “Fuck You” to Wikipedia Trolls
+====================
+New Data Science Certificate from Microsoft University
+====================
+Pricing Out Start-Ups in Your City
+====================
+HTML5 Game Development Tutorial (IDE)
+====================
+Native HTML Apps
+====================
+Founder Prize
+====================
+Why Google should create a global AI body
+====================
+How to stay focused and improve your code readability
+====================
+Brutal video interview roundup: Google, Yahoo, Target, Targeted, Yahoo
+====================
+Node.js 7.0.0, v5.5 Released
+====================
+Tim Berners-Lee’s Web-Based Speech Recognition System
+====================
+The OpenMac Project
+====================
+Microsoft tells customer to pay back their stolen data within 14 days with Novell
+====================
+Silicon Valley’s Boys Club Bums Around
+====================
+Is there a blog engine that isn't SaaS? (Why some don’t like it)
+====================
+Google reportedly paid Carnegie Mellon $70,000 ‘in connection with’ hack
+====================
+When real requirements matter
+====================
+Ask HN: If you're thinking of starting a company today, know your next project
+====================
+Lessons From Google’s Revolution in Mobile Search
+====================
+Peter Thiel Found Dead in His Own Bed: Did We Just Offshore?
+====================
+Hackers Who Can Use Your iPhone pass a kit of Alto's speech. You need to know it
+====================
+A Genealogy for How the Brain Learns About Time Travel
+====================
+Tell HN: Manage passwords in the cloud with a Rails app and Hosting (free)
+====================
+PyPy's New Check-Path Debugger
+====================
+Nodejs on Docker
+====================
+VLC Media Player now 100% Flash
+====================
+A Coalition of All Democratic Forces, Part III: General Demologist
+====================
+Ask HN: What about talent in London?
+====================
+If Your CPU is Getting Too Cool, Change It
+====================
+The Original ASCII Art
+====================
+We published a book this way before we launched
+====================
+Mandelbrot Fractals
+====================
+Harvard Online Catalog – Free Book by ESR
+====================
+Pricing on Skill Level and Your Age
+====================
+Ask HN: Does anyone use OS X as a web browser?
+====================
+Watch MLAs talk at EconNY onipline
+====================
+The MongoDB CSS Question
+====================
+Ask HN: Which JavaScript framework do you use for web development?
+====================
+A $34,000 Jet Is Again on the Brink of Inspiration
+====================
+How do you prove that n+1 = 0 in Quicksort?
+====================
+Show HN: Programming Twitter – Integrated with NuDB
+====================
+How Microsoft changed gaming forever
+====================
+European Startups Are Hurting Google's M&A Pace
+====================
+I quit Twitter for a month and it changed my thinking about mostly everything
+====================
+How do I use Common Lisp to build a composable web app? (plus tutorial)
+====================
+Fast Search for Ruby
+====================
+Y Combinator responds to Fyre Festival rejection
+====================
+Fractals in every key
+====================
+Every Linux Cluster on Earth is connected to the Internet
+====================
+How to Tell if You're UTF-8
+====================
+Think Before You DHTMLH
+====================
+GCC Gathering 2014
+====================
+Knuth on Math Geeks
+====================
+Bill Gates' 'sugary' meetings with China goxpert raise questions
+====================
+Yahoo hiring a designer in China
+====================
+Ask HN: Best Python “Book” to Read for 2+ Years?
+====================
+Is your computer smarter than your dog?
+====================
+A Googler's Review of Google Maps
+====================
+Code-First Development by AA (2010)
+====================
+Ask HN: How to secure yourself when interviewing?
+====================
+Uber now lets you cancel your premium plan you just renanced
+====================
+Hacker News and Y Combinator News: Which is the right choice for me?
+====================
+Mobile Growth: IBM Monetizing Its Games With Mobile Game PIs
+====================
+Linus Torvalds Finally Says, “This Is Not My Kernel”
+====================
+White Collars go the way of the Tibetan protest
+====================
+The gun-control push that wassts my syllabus
+====================
+Apple’s Strategy for Going Mass Market
+====================
+Ask HN: Anyone using 'good guy' SaaS hosting?
+====================
+Valleyvoice - hosted email based conference calls for sale
+====================
+You have 6 minutes this week. Let us help you.
+====================
+Extensionality in Web Browsers
+====================
+Jetstrap for Bootstrap
+====================
+How inscircle.com saved our startup (and how we got into Forbes)
+====================
+Living with a Computer
+====================
+Using a GUI to explore new code
+====================
+Show HN: Android Automation Demo
+====================
+How a Couple of Things - js_essays_with_branches
+====================
+Show HN: Code or Stream: A code editor for live coding, and share it
+====================
+Apple’s Stylish Remote Command Line Buttons Disappear
+====================
+Scientists in a U.K. lab are designing a cryptographic hash record of every tweet
+====================
+U.S. Supreme Court: Warrantless cell phone searches without a warrant
+====================
+Ask HN: I want to find a team, but I'm not good at competitive coding. Suggestions?
+====================
+How do you make people aware of bugs you broke tests?
+====================
+It takes 6 minutes to pay $6.50 to link to this page
+====================
+Disco Mapper – Run Mapper jobs on your own RPN server
+====================
+Forrest Mims, Radio Shack, and the End of Audio,
+====================
+Tell HN: Distraction-free HN/Reddit-like sites
+====================
+Edward Tufte
+====================
+Working Mothers in the U.S. Face Distress, Unchecked by Paywalls
+====================
+Ask HN: Good reason to buy a smartgrid today?
+====================
+Sixth-Grade Developer Needs To Take 10+ Years Apart
+====================
+Work Flow is a Free and Easy Way to Stop Procrastination.
+====================
+Ubuntu 18.04 Tips and Tricks
+====================
+$100M SoC for Stripe
+====================
+Some Thoughts on Functional Programming
+====================
+Twitter blocks Feinstein's account
+====================
+Nginx – Major Threat
+====================
+Traveling beyond the web: 16 people in 16 countries
+====================
+Things developers should tell about developers
+====================
+Kendrick – Opensource cross-platform mobile development IDE and CQRS integration
+====================
+Reputely awesome new HTML5 tool for animating & testing CSS3 graphics in the browser
+====================
+Stealing and Commenting Your Startup Email Address
+====================
+Amazon PostgreSQL Extension: Search Amazon Redshift, AutoSupply, PriceKnockout and Cramual
+====================
+The IPv6 World: David Cameron and his liege on terror
+====================
+More about C++ than C code
+====================
+Twitter, Thumbtack and Twitter Threatening Software
+====================
+Microsoft begins patenting Microsoft Note, Microsoft Interface
+====================
+Bitcoin: 'Kid Money for the System'
+====================
+Morte: Reducing power consumption for background operations
+====================
+New Paper: Neural Symbolic Execution Tree
+====================
+New Tesla Has 2000+ Models
+====================
+Want to see 10,000 Tesla trucks in production? Build them.
+====================
+Getting (Smaller) Scraps from the Web
+====================
+Mubarak Talks: Part Three
+====================
+Printing with Love: Etsy's Etsy Tango team prints all day long
+====================
+Did i *n* even violate C for which he wrote “The Lovely Bride”?
+====================
+Julian Assange AMA on Reddit
+====================
+The myth of higher education persists despite evidence to the contrary (2014)
+====================
+Clojure Web Development with WebKit
+====================
+XKCD: Lightweight Redis Replacement
+====================
+Using Queue Event Sourcing to Stream Node.js Video
+====================
+#JeSuisDieudonnexit
+====================
+The Anti-if Campaign
+====================
+What Is Better Than What? The Six Reasons Why Unequal Pay is Why We Need Higher Taxes
+====================
+Announcing Docker Teleport
+====================
+Ask HN: What is your career path in technology?
+====================
+Ask HN: Can anyone recommend a small resources to improve SEO
+====================
+Uber loses lawsuit over rights to photos of driver after she urinate on manager
+====================
+Using Smarter Computers to Help Families Get Through the First Day of School
+====================
+The chaos theory of IT and IT security
+====================
+Why I've Come to Hate the Closed Web
+====================
+Someone is posting images of dead unicorns in the heart of Silicon Valley
+====================
+Show HN: Turn a URL and paste the body URL
+====================
+“I’m selling this: 1 BTC for every submission to the Dark Web”
+====================
+At last, a truly affordable car for boys
+====================
+Our favorite 'underappreciated' Chrome extensions
+====================
+Show HN: Calendar for your Mac
+====================
+For Non-Technical Founder Larry Page, A Big Influence On His Isolation
+====================
+Massive head mounted camera scanners pass market-killer test
+====================
+Lol.js – The "Lol API"
+====================
+Desertec
+====================
+Parse New Feature: Immutable JS Modules
+====================
+Coq: A Compiler for Haskell
+====================
+Django's technology stack
+====================
+How to Build a Teletype Powered Bike
+====================
+Reverse Timing
+====================
+So you want to write a tool, then launch it...and then fail.
+====================
+Show HN: Open source music player with keyboard and API
+====================
+Former NY governor deports 5 out of 7 drugs from border town
+====================
+I’m thinking of moving to Texas to work in Silicon Valley
+====================
+Top-10 Ideas on Scaling Your Web Application
+====================
+Web 3.0
+====================
+Show HN: A working draft of a mathematical text for AI researchers
+====================
+Is China throttling its own citizens?
+====================
+BoxingScene Pulls an Emotional Replacement App
+====================
+Germany: Wikipedia is 'deceived and over-bealous'
+====================
+Larry Page's Digitally Signed Agreement with Uber
+====================
+Show HN: Weekend project – Tripabase - Yelp for airplane recommendations
+====================
+Using SQLite as a NoSQL database
+====================
+Redox (Rust OS) Release 0.3.1
+====================
+The Best You Can Do
+====================
+Second Apple hardware failure puts Xserve owner's on notice
+====================
+Polymath.io - Develop your Python code on the fly
+====================
+I've made a new logo
+====================
+TSA security policies are as old as the Internet
+====================
+A Large-Scale Evaluation of CPU Tuning in Intel's Xeon Phi (2013)
+====================
+AppHarbor Announces Support for HTTPS on HTTPS.com
+====================
+Ask HN: Making $3000 from a web project. Where to start?
+====================
+The Former British Hacker Who Became One of China’s Secret Surveillance Radars
+====================
+Colorful: Color schemes visualizations in WebKit
+====================
+Nginx at MailGun
+====================
+Cybersquatter Detected in Stuxnet's Brink
+====================
+Turn .Net Applications into .NET Applications in 90 Minutes
+====================
+Ask HN: How do you release PDFs from your servers?
+====================
+Yawn, go plugin turns grpc requests into read-later-extracts
+====================
+Ask HN: Software Cofounder wants to branch out. What would that mean to startups?
+====================
+Nintendo Devices News - Cell phones still not cheap
+====================
+Beautiful Imaging of the Sun
+====================
+Hansoo's Legacy: great engineering, great execution. . . .
+====================
+Internet Kops Play by the Book Using Python, Zig Language, Parse Web
+====================
+Icons: Not only for web typography
+====================
+I don’t want to live like kings of Wall Street
+====================
+Twitter Chief Testifies before Congress
+====================
+Ning Launches #JailbreakOnTheWeb
+====================
+Hacking a radiofield:  the hammer, changing the rules from left to right
+====================
+What Might Have Been [S9BOT, A Space Plane]
+====================
+Ask HN: What's your (non-Unix) developer work/life balance?
+====================
+Novell: The perfect arm for Google
+====================
+United Airlines' Sitcom Makes a Statement
+====================
+Don't Download Movies
+====================
+Things we've done wrong as a startup
+====================
+Giving away $300 makes my job worthless
+====================
+Ask HN: What is the future of news?
+====================
+Open-source is losing, because it is dying
+====================
+Will you listen to my programming challenge?
+====================
+Python 3.6.0b1 is now available
+====================
+History of MapD and the Emacs Movement
+====================
+AWS VPC Named Leader
+====================
+The Turkish Lucky Charms, How they use the internet
+====================
+Show HN: Keybase.io public beta – A file format for almost anything
+====================
+Introducing Cloudant Query: a scalable, robust auto-complete framework
+====================
+Data Stampede: How FaaS brings Mongo to Asana, Nginx and ZooKeeper
+====================
+Tim Ferriss’s Lively Blinded by Silence
+====================
+Hitch – An open-source platform for IoT devices
+====================
+Larry Wall on why not everyone in the world should be a social tenure - The New Yorker
+====================
+The tree was the oldest living thing on Earth, and the oldest was human
+====================
+Ask HN: What Is your Smallest Idea Ever Done?
+====================
+First rule of thumb
+====================
+American Giant and Sprint’s $9B Quarter Is the First U.S. IPO Lockout
+====================
+The government is buying LinkedIn
+====================
+Lazarus IDE build where source compatibility is a priority
+====================
+Reminder: WakeMate 2B users activate their free 3g/day plan now
+====================
+Eric Schmidt: Yes, there will be another Clinton
+====================
+Show HN: Felt – a small but powerful beacon by example
+====================
+PEP 498 – Add a Time Zone Database to the IP Address List
+====================
+Amazon to Launch Game Streaming Service Next Week
+====================
+Unsafe GHCi on Modern C++ Development Environments [video]
+====================
+Mojang 1.5 Release
+====================
+New Android and iOS APIs (Philips)
+====================
+David Nolen's Trans-Everything Guide
+====================
+Trump wants $1.3B in new bank accounts
+====================
+IPython 1.0 released. App runs on new Sun ARM Chromebook
+====================
+Facebook's New Home
+====================
+Ask HN: What are you trying to accomplish with your startup?
+====================
+'You Have to Lie to Go to Jail'
+====================
+Some thoughts on web standards compliance
+====================
+Monkey-Patching Python Regular expressions
+====================
+Free is less powerful than ever
+====================
+Teenish Map of Europe That Shapes Lives Upon Folded Body Parts
+====================
+When Paul Krugman Crashed Himself
+====================
+But there's a way to get around DMCA for free music
+====================
+Speeding Up Your Javascript Withweekly.net
+====================
+Can we say “versioning” all eight quadrillion ( octopus )s?
+====================
+Public WIPO vs. ARM token trading
+====================
+Have we found the universe that existed before the Big Bang?
+====================
+Web schema: A hand-drawn Webpage-based table markup language
+====================
+Introducing the Developer Automation Kit
+====================
+Show HN: Use your mac (or Linux) to sync movies and music between devices
+====================
+Inside the Strange New World of DIY Brain Stimulation
+====================
+Ask HN: What web framework should I learn in 2017?
+====================
+Illustrated guide to the non-programming world, from the U.S. Customs Service
+====================
+Bootstrapping for Free
+====================
+iPhone XS uses an older iPhone—and lowers the price of a $99 iPhone
+====================
+Support YC: The Open Web Book
+====================
+Show HN: Find an Optimal Model for Your Startup or Product
+====================
+Kidskal Launches – 1st Annual Certified Blog via Kickstart
+====================
+Open letter from a blind and not entirely sure of this -- how can we make the technology useful people?
+====================
+Watch Out For The Balkans
+====================
+Ask HN: Best Hard CS courses?
+====================
+A Crash Course in Computer Science
+====================
+GPG Suite 2014.2.0.3 released
+====================
+A Field Guide to the Moon
+====================
+Tax haven in Ecuador gets Make-It-Yourself-a-Business license
+====================
+Principles of Cloth Simulation
+====================
+How Former Munchaus, Part 2 – Did TechShop Implode?
+====================
+Media for Thinking the Unthinkable
+====================
+Big Bang Abandoned in New Model of the Universe
+====================
+How Airbnb took me by surprise
+====================
+EU to end mobile roaming charges for most phone models
+====================
+Apple WebOS Welcomes Underscore and Other Learned Languages
+====================
+Ask HN: How do you decide on product names?
+====================
+Fabrication tips for developers
+====================
+Democracy Is The World’s Greatest Public Library – Why We Haven’t Seen It Yet
+====================
+Cosmology from quantum potentials
+====================
+Leisure is the new productivity
+====================
+Why I travel around the world for work
+====================
+Facebook's Ambitious Incentive Payments Plan
+====================
+Y Combinator: Bookmarklet
+====================
+Every developer, every day is a Miracle
+====================
+Ask HN: Can I make $1,000 an hour as a drone operator?
+====================
+My co-founder is leaving my startup: how I fixed it
+====================
+Ask HN: B2B Software jobs – how do I view the b2b industry?
+====================
+Mill: An experimental system for managing processes
+====================
+How I Lost $17,000 with no Credit History at Facebook
+====================
+Brian Eno on four songs from “Monami”
+====================
+Clusterize adjusts the container footprint of your application
+====================
+Zynga Hates Money; Pays Workers Pensions by Targeting Industry Casualty
+====================
+Inkling: Smart Legal Contract and Blockchain Integration
+====================
+How many times can a YC application fail if it's implemented in-house?
+====================
+Tim Wu leaves Google to start iAd app AdSense
+====================
+Are kids solving the world's problems rather than worshipping it?
+====================
+Seattle’s most famous bike-sharing firm, BofA, has sold off more than $6M bikes
+====================
+The Perfect Email – How Email Can Become Sexy (2014)
+====================
+Ask HN: For SEO, modern day tools/tools for doing site design/branding design?
+====================
+The War against Photography
+====================
+Even famous people are getting senescent
+====================
+Vim Plugins That You Might Not Know
+====================
+Does the GPL Matter? Quite a Bit, People
+====================
+No Artificial GANs for Headless Domains? No More JavaScript on EC2 and S3
+====================
+Show HN: Paperless – Find notes that are also readable by other people
+====================
+Cursive-Script: a legacy implementation of Cursive on x86
+====================
+Immersive 3D panoramas with your smartphone
+====================
+Don't start a business, replace it with a start-up
+====================
+George Will: Stop Procrastinating
+====================
+Hedge Fund Star: Our Kickstarter To Prevent The Next 'Hyperinflation'
+====================
+David Cameron on Radio TED: IPed in the closet
+====================
+Antikythera Machine
+====================
+How do I make money as a programmer?
+====================
+Microsoft Suspends Xbox One Sales After Sales Collapse
+====================
+I’m young, inexperienced and a perfectionist
+====================
+Lwan: High-Performance HTTP Microserres(2009)
+====================
+Kuberntes Blocked from accessing Dogecoin
+====================
+Ask HN:What is it like for programmers when they are teaching/researching something new?
+====================
+SJWJS
+====================
+Saying No to College
+====================
+Does Reddit ruin the internet by censoring individual opinion?
+====================
+In postwar Japan, rapid growth led tovation
+====================
+$300 Nearest Subway Terminal in the World in Conway's Game of Life
+====================
+Beyond REST - An Ode to Simplicity
+====================
+Marc Andreessen: A Google Moment for Twitter
+====================
+How Much Will the Next Zuckerberg Make from Uber Surge and Lyft Line?
+====================
+Metrics for a Live, On-Demand Chat with 500 Million+ Users
+====================
+Unicorns vs. Horses and Profits
+====================
+Raspberry Pi journey continues with launch of first dev kit
+====================
+The F-35 Is Now F-18s Based on Gripped Typhoon RIB-3
+====================
+Watch gif animations on Zed Shaw's blog
+====================
+Bring me advanced engineering books. I need adventure science.
+====================
+Lunchtime Hack: Timebomb Not Included
+====================
+Indiegogo: Setting Our Sights on the Future of Wearables
+====================
+Highly customizable Zappos products
+====================
+Why we use &lt;+100px in our UI layer
+====================
+Succeeding Without Your Family
+====================
+Where Microsoft Went Wrong: The Dirty Secret Behind the Salesforce $1M NPMshop
+====================
+Senate Approves Internet Sales Tax
+====================
+Gaspard: A self-hosted git service
+====================
+Gwern’s Comment on Recent App Makers Not Letting Go of Brands
+====================
+Why I stopped raising money
+====================
+Show HN: Stomp.io – drag/drop ops/services in Node.js
+====================
+Does anyone here run their PC without antivirus?
+====================
+Mark Cuban: My Life as a Digital Nomad
+====================
+Developer Responsibility for Cocoa (and iOS) Bugs
+====================
+Show HN: Asup – Local work quietly starts
+====================
+Why there's no email client
+====================
+Advice for dealing with "tab Hell" in your browser
+====================
+Employee happiness is about more than just looking good on match.com
+====================
+Ask HN: Are small-business or DIY founders more popular than big-business?
+====================
+Pirate Bay downloader surrenders files
+====================
+How We Pivoted Right After 500 Startups’ Demo Day
+====================
+Why Canada's immigration regime is the wrong approach to immigration
+====================
+Web platforms and webb business
+====================
+Ask HN: Would you be interested in one of the live webcams?
+====================
+Go Circuit: Open-source framework for data-driven programming applications
+====================
+Artificial Intelligence’s White Guy Problem
+====================
+Story Points and a Balanced Balanced Budget
+====================
+A Real-Time, Recommendation Engine for the Real-Time User Interface
+====================
+Github is working on "Twilio Phone"
+====================
+Walmart reveals all the robots at one point or another
+====================
+Sydney Morning Herald writer arrested for story
+====================
+The Canary at the Heart of the Internet Was Probably Opened Equal to a Third of a Third Brute Force
+====================
+Ask HN: How do you know if your company is (slightly) beyond your reach?
+====================
+Announcing open office collaboration: Trello for startups
+====================
+Why we're asking users to wear number 5 shirt
+====================
+Where did all of Mayflower's oil from?
+====================
+Our best bet for next year
+====================
+Show HN: Bitmoov – Clipse as a Service
+====================
+What About Resolution vs. Depth
+====================
+An Atheist Experiences Facebook's New Virtual Child Model
+====================
+Self-driving car tips getting human (and machine) approval
+====================
+Ask HN: Got any free domains or want to start a social website?
+====================
+Rails Workshop 2015
+====================
+I’ve been writing ring buffers off and will probably never go back
+====================
+On What is an Option?
+====================
+Anima — New default radio
+====================
+Cocoa with Sweetness
+====================
+Ask HN: is anyone seriously using Java?
+====================
+Google, a New Wireless Service Should Be Available Before the End of the Year
+====================
+Build your own processor cache chip
+====================
+Our 19-year-old disabled an irrigation system. Then we built it ourselves.
+====================
+Sony Images Taken Down For Photoshopping Visitors to Ads
+====================
+Python DevRand
+====================
+HN is awash with gratitude
+====================
+3D Clojure
+====================
+Ancient games: A curious marriage between Tetris and Racket
+====================
+Alex Polvi Plays Doom With Doom 2’s Physics
+====================
+Twilio CEO on Why U.S. Wireless Service Is Lousy for Merchants
+====================
+Multi-team collaboration makes teams less productive
+====================
+The Landscape of Bad (2015)
+====================
+The Noun Project - A Tool for Projecting Songs
+====================
+Exploiting the Retail Technology Revolution [pdf]
+====================
+Apple A5X costs $35
+====================
+Depixelizing Pixel Art: Resizing Canvas with Javascript and Canvas
+====================
+Ask HN: Any money with equity?
+====================
+Learn a language in 200 hours
+====================
+Me and Steve Jobs: We Shall Overcome
+====================
+Germany's most populous city chooses open plan over shared living space
+====================
+Restoring Balance to Yourself – A Top Fundraising Guide (2012)
+====================
+MRO: Memory-efficient, Rowhammer-Optimized Secondary Memes (1963) [pdf]
+====================
+Ask HN: Who do you recognize in interviews as a mentor/mentor?
+====================
+Ubuntu Might Become a Top-10 OS Within China’s State Press
+====================
+Troubled drug discovery setback comes to light
+====================
+How Do You Ban People?
+====================
+Cultivating a "Everyone Hacker Friendly" organization
+====================
+24 days of Rust – working with structured values
+====================
+Ask HN: Any Bootstrap developers wanting to collaborate on AIM freshening?
+====================
+Show HN: oculus - easy as five
+====================
+Ask HN: Project management services for solo founders
+====================
+ASK HN: Last minute type information for your Google form
+====================
+Canadaez, the Startup Accelerator Has Launched $150k in 4 Days
+====================
+This must actually work
+====================
+Groupon's next big business opportunity: custom ecommerce software.
+====================
+The Mertado tablet ARM based Linux tablet with Google I/O
+====================
+F# with modern C#
+====================
+Stick withnants of a Lost Decade: Discover the Remnants of the Third Reich
+====================
+Why OCaml is not my favorite programming language
+====================
+Dutch intelligence chief: Info war on online media is out of control
+====================
+Microsoft’s Universal Windows Platform: Where We Are in the Future
+====================
+Ask HN: Will I be accepted for a Google interview?
+====================
+Ruby vs Elixir in real world: a war simulator
+====================
+Show HN: Dagen - writing one million lines of bash
+====================
+Meet Hostank, Estonia’s most dangerous malware – here’s what it does
+====================
+Startup School Recap
+====================
+Shutting down BitTorrent.USP.TABLE, February 23, 2006
+====================
+Parasites That Run on Thought (2011)
+====================
+Exact strings
+====================
+Ask HN: What is a good free/cheap reverse image search engine?
+====================
+The Scene of the Crime: A reporter’s journey to the centre of an Alabama home invasion
+====================
+Atomic lab near Fukushima: images
+====================
+Why Apple doesn’t use Steve Jobs’ old iPhone anymore
+====================
+How an automatic email compressed our first 10,000 emails
+====================
+Speculation on the effects of the T-Mobile hack
+====================
+It's Hard to Get Home in the National Wealth No Matter How Hard You Work
+====================
+Are plane boarding passes fake?
+====================
+Q – Query batch SQL queries
+====================
+Google will take 10% of all display ads in AdSense next quarter
+====================
+How People Use Twitter and Hashtags
+====================
+Unemployed, Working 2-3 Years and Raising Money... in NY
+====================
+AngularJS Koans
+====================
+This Is Why Your Newspaper Is Losing Value
+====================
+AMD’s stock plunges 12% after workers got better wages than they’re worth
+====================
+Engineer Dad
+====================
+Don't do a start up. Be a customer. Be patient.
+====================
+Personal Investing – Tip – Contribute to any site by email (Cordain)
+====================
+Ask HN: How is your DevOps style guide, roadmap, roadmap, roadmap?
+====================
+Add Versioning to Your Web Application
+====================
+How Big Is $10 Billion?
+====================
+Are We Still Committed to Core Beliefs?
+====================
+Why Is Amazon Dominating . . . Amazon's Market So Hot?
+====================
+Page load performance test - FastNets.com
+====================
+YC Wouldn’t Be Where It Is With Yahoo
+====================
+Ask HN: How to find a new job?
+====================
+Daring Fireball: Counterintuitive Questions
+====================
+Show HN: Zinc: Create in-browser badges and track your keepers on GitHub
+====================
+Ask HN: What's the standard approach to front-end application development?
+====================
+Reputation Metrics for Humans
+====================
+Workers on a floating luxury project called 'ethane'
+====================
+Surviving a Tourist-Drone-Hammer Game
+====================
+No reason for the New York Times to stop more than three dozen stories from going nationwide
+====================
+Apple’s FaceTime reportedly down at 1:20UTC per user
+====================
+Explaining shut-down effects on NCTD (2017)
+====================
+ChromeOS: Inventing a Language, Platform, and Module for Web Development
+====================
+Researchers uncover seven new Russian hacking methods
+====================
+What's That Programming Language Anyway?
+====================
+Binary image recognition in Chrome
+====================
+Show HN: Track anything with a text label
+====================
+How I Learned to Be a Narcissist
+====================
+Windows Freestanding Shell
+====================
+Ghost 804
+====================
+Create app icons for GitHub, Vue and A16Z
+====================
+What can happen when the government gets involved
+====================
+Shyp Updates Its Podcar Platform with a Dedicated Instance Network
+====================
+Statically Typed Programming in Haskell [pdf]
+====================
+Apple now runs on 100% green energy
+====================
+Ask HN: Is it worth continuing my startup with new tech?
+====================
+Ding Dong!
+====================
+Kim Dotcom's Mega to expand into encrypted email
+====================
+We're being watched: Google+ takes #1 spot in Huffington Post top 10
+====================
+Trump Orders Censorship of TorrentFreak – Dangerous Web– TorrentFreak DMCA
+====================
+Yavalath – A Python library for generating C++ web sockets
+====================
+Scaling-dissolve-algorithms
+====================
+Ask HN: How to prepare for a technical interview?
+====================
+Pymc: personal peer-to-peer chat and file sharing via SMS
+====================
+Principles of Problem-Oriented Programming
+====================
+Show HN: I work on my wife's B2B SaaS business. Would this be possible?
+====================
+Everything You Think You Know About Strength-Based Training is wrong
+====================
+$20 comodo wildcard SSLs (while they're cheap)
+====================
+On The Value Of Long-Term Debt
+====================
+Show HN: A Gitter client for Apple Watch
+====================
+Chop Suey Nation – Altoids tells stories to the next
+====================
+OpenGL 4.4 officially released for Linux
+====================
+Bad programmer
+====================
+Excessive Software Patents and the Law (2013)
+====================
+13K cross country miles of 'Entire' US National Parks are now national parks
+====================
+Why Humans Prefer to Do Piracy
+====================
+NSA Catalogs and Yahoo Plugins: How They’re Used for Spying
+====================
+Ask HN: Why have you never used Assembly Machines before?
+====================
+Ask HN: Do you ever get tired of programming?
+====================
+The Complete List of Amazingly Useful Resources for Web Engineers
+====================
+The solution to the housing crisis is extremely simple
+====================
+Why An iPhone App For Tapeworms Will Succeed
+====================
+Google's 404 page
+====================
+Being Cyber-crazy is a privilege
+====================
+Unemployment is Killing 40 Million Millennials
+====================
+Organizational Skills Beat Algorithmic Wizardry
+====================
+Ask HN: Best Hacker News client for iOS or Android?
+====================
+Forbes names Erschelsea's nine-year-old daughter as its newest mayor
+====================
+Why Author Uses Vim, Emacs, and Git
+====================
+Show HN: Deep Learning in TensorFlow with Keras
+====================
+New cloud-based testing platform with GitHub integration
+====================
+Ask HN: Does being good at generalised tests help your decision making skills?
+====================
+Ask HN: Couldn't sleep. Wrote weekend project for Saturday morning. Recommendations?
+====================
+High-School Dropouts Make Some Profitable Inventions
+====================
+If We Go Back to the Future, We Will Never be As Smart as We Are Already
+====================
+Ask HN: Should we create a reddit alternative?
+====================
+Twitter blocking person from posting updates to accounts via 'blacklisted' label
+====================
+Ask HN: IT Professionals, where do you find people to hire you?
+====================
+Bootstrapful: Free Bootstrap documentation and boilerplate
+====================
+Show HN: Pinecoin - Pare down your Bitcoins for Bitcoin-like transactions
+====================
+Introducing Sublime Text 3
+====================
+Robot killed in a traffic crash had trained a robot to triumpheyes
+====================
+Meet the People Who Stock Up on Healthcare
+====================
+SF Bay Area workers earning $200/hour shift working on hot steam locomotive
+====================
+Ubuntu Server with Unity8 on KVM, Klear, LXR, Machine Learning, TensorFlow and More
+====================
+SICP imparted on language
+====================
+Want to Understand a Black Hole? That’s Ultraviolet
+====================
+Sam Altman is wrong about startups being mediocre
+====================
+As France Eyes Tech Containers, Ask ‘What’re This Us?
+====================
+Show HN: Learnings forking your friend's Twitter, without sending them to the server
+====================
+Teach Yourself Programming in Ten Years Using Haskell – Free Book
+====================
+'Dangerous' EU-France deal on scientific publishing
+====================
+Stanford Aeron study: The cloud is more like the sheet than a platform
+====================
+The Secret to Rapid Twitter Growth
+====================
+These Smart People Think In Sailfish Patches
+====================
+Things Git Does Better Than X Git
+====================
+Emil Cioran: Six months in, nothing done at VMINT
+====================
+Living Entirely in 3D Is Not Sacrifice, Indulgences and Hell
+====================
+Ask HN: What is your favourite CSS Framework and Component?
+====================
+Xenophobia Baddies
+====================
+How I Found Flipping to Be Very Slow
+====================
+Medium for Personal Data
+====================
+Raging Bulls: How Wall Street Thinks
+====================
+Show HN: Zephyr: real-time file/video events on the web
+====================
+Researchers Map MIT Prison GPS System
+====================
+ISPs gonna 'steal from you'
+====================
+Why a PHP/Git changelog can cause a Kubernetes cluster crash
+====================
+Show HN: Calepin, a self-hosted, document-based, structured discussion system
+====================
+Heisenberg's last words
+====================
+Ql.com Swapping Out Forever?
+====================
+Indian government to screen all WhatsApp messages with biometric data within 10 years
+====================
+Maven Polibaba: Entering the Marketplace
+====================
+Show HN: Simple C++ Modern Template Memory Powered JIT (Gith JIT)
+====================
+Why large companies will die from software engineering [pdf]
+====================
+Resumes suck. Here's why they suck.
+====================
+Job Search Tips From a Software Engineer
+====================
+Fashion robot to hit Japan catwalk
+====================
+Ask HN: What are some Internet startups that use AWS?
+====================
+How do you maintain and pay for a constant source of income?
+====================
+The Tech-News Machine
+====================
+Monitoring is Hard
+====================
+Tracking of Command Line Applications With Sysdig
+====================
+Why is the width of a Y array more than twice that of a Bee?
+====================
+Oculus Go review (mostly) from a VR perspective
+====================
+Another YC clone gone wrong - YC winter 2011 invites end soon.
+====================
+Yes, You Can Get Leprosy From Your Eyes - E! News
+====================
+“Getting” Russia’s shares up — or how Spotify will go public
+====================
+Sunsetting SourceForge
+====================
+The Fatal Tin Syndrome
+====================
+Why thinking in the shower makes you a better programmer
+====================
+PixelBots
+====================
+How do you (or how do you not) access other people's experiences in your app?
+====================
+Verizon to Limit Data Speed Allowance
+====================
+Bridging the gap between Python 2.7.x and Python 3.x
+====================
+The Power of Meaningful Algorithms
+====================
+Twitter Valued at $25 Billion
+====================
+An overview of JIRA’s exploits
+====================
+Transgender, Native children are the least likely in the world to be accepted by the world
+====================
+The lost letters of the English alphabet
+====================
+Patio11’s on flea.com and how they handle their money?
+====================
+Clojure is Powerful
+====================
+Google, John Sculley: Python is my next language
+====================
+You Are Probably Not Mark Zuckerberg, But You Should Be
+====================
+Yahoo open sources their Scala framework for parallel computing
+====================
+Ask HN: What are the things that your non-technical boss isn't able to answer
+====================
+Show HN: Meet our new in-game friend Find my Phone
+====================
+Swagger: Validate your tests with shoutable.io
+====================
+SSH performance in Windows
+====================
+Don't be a cargo-cult software engineer
+====================
+Server-Side Turing Machine in Backbone.js
+====================
+Hacker News Meetup in Oakland
+====================
+Finally, a Standardized HTTP Request/Response Router
+====================
+Twitter’s “recently outdated” #shout tag
+====================
+ES6 is beautiful, if you mess it up
+====================
+Interesting Invoicing Blogs
+====================
+Javascript card trading game with ASCII graphics
+====================
+If e-mail had a baby: notification noise
+====================
+A Really Simple Container Orientation with Docker, via the Web Infrastructure
+====================
+Tesla's Supercharger network may be flawed
+====================
+ML-oveless search engine Yelp adds humans
+====================
+Html6h4m5rcej9wq3gau4bau5q4mh3r9sau5q5n Rose and the tech princess
+====================
+Using D3.js to Pair 2 Meters of Code, 1 with Arduino
+====================
+Show HN: Dramatiq – An alternative to Celery
+====================
+How Facebook Threatened My Marriage
+====================
+Comcast to offer two-gigabit Internet service from 2013
+====================
+How Did That Happen?
+====================
+A Monte Carlo simulation of Philosophical Thinking (2007) [pdf]
+====================
+This Slide Shows How U.S. Startups Are Ruining Lives
+====================
+Free JavaScript Video Tutorials – Every Step You Take, Everything Is Compiled
+====================
+Diary of a Corporate Sellout
+====================
+Introduction to EVIL
+====================
+Tax-Free Bitcoin Purchases Up 35% in Four Months
+====================
+Functional Programming in Rust
+====================
+How I killed my launch event with a single text message
+====================
+Tor Project Co-Founder Goes Freaks Out About Facebook's China Problem
+====================
+Killa: New Test for Web-Scale Software (2010) [pdf]
+====================
+The Divorce of Eve Online
+====================
+Autophagy as a mechanism to de-duplicate DNA
+====================
+As We May Think by Vannevar Bush
+====================
+Visualize JavaScript source complexity with Plato
+====================
+South Park For Linux is Amazing
+====================
+How to set up your own backup server
+====================
+Crossplane – Wayland crossplane plugin
+====================
+Tim Cook's Email to Employees About Apple's $1 Billion Cash Grab
+====================
+Ask HN: Ex-devops, no tech stack but room for provisioning?
+====================
+A Discrete Fourier Visualization Technique for Programmers [pdf]
+====================
+UK secret service spies exposed on Tor
+====================
+Two Nasty Mistakes That Lock Up Your Site
+====================
+Fast and Accurate Parameter Prediction in Neural Networks with Gaussian Neural Networks
+====================
+Opera 10.50, a radical rethink of the web browser
+====================
+After Tax Fight, Millions of Americans Can't Get Tax Filingced
+====================
+Hacking Real-World TLS Certificates with the Warming of the Internet
+====================
+Anti-Facebook Rival Protests SOPA By Former Furor Campaign Boss
+====================
+Teen Jailed for Google Search 'X' Search'
+====================
+Firefox Community site is a major Internet security embarrassment
+====================
+Ask HN: The data science cargo net says my experiment failed. What do I do?
+====================
+Five Things I Hate about Elections
+====================
+Freenet Node v1.0.0 Released
+====================
+OK: A Proof-of-Incompleteness Compiler Suite
+====================
+Belief in Meritocracy (According To 50 Percent Of Americans)
+====================
+The iPad is no more for the 21st century
+====================
+Introducing Archimedes
+====================
+Show HN: Freenode alternative and encrypted Slack alternative
+====================
+Self-producing processors (1994) [pdf]
+====================
+Portal App – Keep a copy of your face, in seconds
+====================
+US Immigration Ban: Media Misandry
+====================
+Why I hate comments like this
+====================
+Google to bring ad-blocking “blocker” to Chromebooks
+====================
+Startup provides free Windows 8.1 upgrade for a limited time. What do they do with that?
+====================
+Cross-platform text editor, keyboard and mouse plugins
+====================
+Facebook Should Let People Talk on the Phone
+====================
+How to install Native iOS apps without breaking the internet
+====================
+Facebook will add 3% fee on each new user, starting at $25 per year
+====================
+A Comprehensive Guide To Basic Attention Control Methods
+====================
+The same app. Same price. Same inbox. Different country. Different phone.
+====================
+Do We Need Visual Studio 2.1?
+====================
+How is the iOS CPU aware scheduler behind v8's heatmap effect?
+====================
+Ask HN: Is anyone doing it deliberately?
+====================
+How does Pair do live stream editing?
+====================
+Essential Man-Made Gravity is Extraterrestrial
+====================
+Ask HN: What's the best programming book for best-practices?
+====================
+Apple signs deal with Universal Music for Beats 2.0
+====================
+Better Immediate Presence
+====================
+Building a food startup with Docker
+====================
+Why Gender Study Drilling Doesn’t Work
+====================
+One-shot page of aliasing
+====================
+Why The World Is Very Shrinking.
+====================
+F. Lee Mintz Resigns from Autonomous Car Team Taking Its Own
+====================
+Ask HN: Use private messaging to work remotely?
+====================
+Show HN: LeakyResume – An open source resume generator
+====================
+Jack Dorsey hasn't lived in Disney parks in 8 years, unlike report says
+====================
+A Perspective on API Design in the Age of the API Paradox
+====================
+Looking for something different this week: Hack your tmux
+====================
+Why Did We Call This Graphic-Bloomberg-Style 'Mother?'
+====================
+The most innovative companies in the US
+====================
+CoffeeScript Instead of JavaScript
+====================
+How to Apply for a Job Before You Are Ready
+====================
+U.S. intercepts in DNS
+====================
+Half the people in human history who reached the age of 70 are alive now
+====================
+Ask HN: Is this plagiarism?
+====================
+What a potato can teach you about Marketing
+====================
+Learning Rails - Creating a HTML Application - RailsCheer SAML
+====================
+Writing a test runner for Humans
+====================
+Is T-Mobile the New Century’s Largest Bank?
+====================
+Show HN:  LocalShipper:  Send items to your neighbors
+====================
+The Right Way to Be a Terrible Manager
+====================
+What I've Been Doing Since I Started Interpreting on Days Off
+====================
+Anthropology professor teaching college students to live like early humans
+====================
+Aaron Levie: Standing up for America
+====================
+Paradise Lost: Here's why the United States never had a viable military
+====================
+Don’t bring me 'mascots'
+====================
+Ask HN: What are some interesting CS papers you read in 2017?
+====================
+Let's Move Persona to the GitLab Pipeline
+====================
+Deadlines, lies and videotape
+====================
+This Is Why People Fear the ‘Internet of Things’
+====================
+What Have You Been Smoking?
+====================
+Google: XSS rootkit network wide
+====================
+Tech Leaders Join Together on AI Day Against EU Copyright Censorship
+====================
+Can Vue.js save the internet?
+====================
+Windows is being killed by other similar platform species
+====================
+More lifelines for golang, ruby, JavaScript, HTML, CSS
+====================
+The Professional Wrecker
+====================
+BMW laid off half of its US developers
+====================
+Ask HN: Is there a job opportunity for someone who can code alone?
+====================
+Show HN: Have you ever tried to fake the handshake?
+====================
+Review my Startup: Rentbucket - A website for delinquent taxes
+====================
+Google Squared – network scale chess
+====================
+Earth's core rotates faster than rest of the planet
+====================
+How I built a multi-platform web application after 12 years of iOS and Android.
+====================
+First release of DjangonOS SDK – JBoss/Angular OTA integration framework
+====================
+Interesting ideas to implement in python next ... in no particular order (from Committing to implementation of async/await)
+====================
+Ask HN: Python vs. Ruby in 2015?
+====================
+Google: Privacy Bias Is Reaping Bailout Dollars
+====================
+Scientists Create Touch Sensitive LED
+====================
+Hackers On: How A Team of Four Hacked ISIS Accounts
+====================
+Graphical representation of the top 1000 blogs
+====================
+Javascript Concepts in Python
+====================
+Portability and the 2012 MacBook Pro
+====================
+No talent for golf? The longest loop around the world (2012)
+====================
+Ubuntu Discourse takes boot volumes and credentials to unprecedented heights
+====================
+A Man Has Just the Money to Pay a Price in the Trolls’ War
+====================
+Second-Gen Tesla EVs’ regenerative capacity has been claimed
+====================
+Android App Developer survey for SecDev w/O1 over 4500+ users over 3 years
+====================
+A Tour of MIT Technology Review’s New Lab and Room Plans
+====================
+S2x: A tool for making distributed SQL databases
+====================
+IBM Has Become a Hacker's Own Cheaper Computer
+====================
+Geo Fire
+====================
+The future of job creation
+====================
+Deep in the Pentagon, a Face Recognition Problem Its Tiananmen Smead
+====================
+Programmers Need to Learn Statistics
+====================
+Ask HN: What is it like for non-technical people to transition to dev level?
+====================
+Techdirt: "The Code of Conduct at Google is a Bad Idea"
+====================
+Triple-digit NoSQL PostgreSQL one-time key odd number
+====================
+Bing: Chinese don't care about your possessions for the moment
+====================
+Nuclear plant collapse seen in photos
+====================
+I finally understand data
+====================
+Game Companies Have Been Cheating Our iPads for Years. Here's How To Fix Them
+====================
+NYU provides free antivirus certificates to their most popular districts
+====================
+Top 5 AWS products for mobile apps (Part 2) – Part 3
+====================
+Not having any luck getting a junior developer
+====================
+Browserifying Ruby: It's coming
+====================
+Time Lapse Video of Earth's Past
+====================
+An Easy RNN with Dialog
+====================
+Prototype Media Accelerator Blocks, Scenes from YouTube’s Launch
+====================
+Can my employer fire me for legally using marijuana?
+====================
+How A.Q. is a Warning Sign
+====================
+American Startup Hub, founded by ex-Employees, brings expertise from Silicon Valley to startups
+====================
+Ask HN: When it's right to choose a service
+====================
+I Have Write
+====================
+AI-built universal service mesh
+====================
+How to Predict Happiness [Answered]
+====================
+Drinking The Kool-Aid: Getting Started with CRISPR Without Mediocre Regrets
+====================
+All Gulliver Heads...Wore Black Label Gear
+====================
+I Moved Here Before The Magic Ball Arrived
+====================
+Fun with the 3D carving platform: Stairway-Climbing, Jump-hing, and Spin-ching
+====================
+Twitter Talks Transparency, But Does It Care About Friends?
+====================
+Ask HN: Code based sites with CRUD
+====================
+Ask HN: What is your #1 single-factor solution to slow down your app down?
+====================
+NeXT/GIMP ported to Android (20 years later)
+====================
+Swedish cargo ships 'disintegrate' en route to Europe
+====================
+Understanding the Hidden Sexism in Tech
+====================
+Show HN: PipeLog – CPU simulator and application layer for LogDog
+====================
+Starting a Startup in Rwanda
+====================
+The secret history of American soil, with photos
+====================
+Write tests. Not too many. Mostly integration
+====================
+Google Zeitgeist 2014
+====================
+Build a Living Room Pitch deck with Garagestrap and Gotoku
+====================
+Show HN: Ruby code to federate VPCs and API messaging
+====================
+I've never seen such a thing as a black firefighter
+====================
+A Rapid vs. Cheap Heroku Deployment Service
+====================
+How Three Guys Rebuilt the Foundation of Facebook (2013)
+====================
+GMO Patents Tasted as Effective HIV Vaccine
+====================
+Startup saves lives with personalized Jeopardy predictions
+====================
+Nasty Disease Vents in Mid-Atlantic Europe May Signal Global Warming
+====================
+That’s Not a Memory Operation, That’s an Incandescent LED
+====================
+“Adobe has stopped publishing Flash Vulnerability patches on preview”
+====================
+JSMeter beta
+====================
+Sizing a new cross-platform language: i18n
+====================
+Google Crawls By the House 100 Times Per Day, For a One-Minute Hack
+====================
+Node.js at Uber
+====================
+Rails Meeting
+====================
+Visualizing file history and events in sed
+====================
+Peter Thiel Calls Technology an ‘Excessively Battleground’
+====================
+Software Defined Networking – A Primer
+====================
+After Spotify buys iHeartRadio, will Spotify move on?
+====================
+We Need to Replace Objective-C
+====================
+Show HN: Next programming language to master
+====================
+Drone hobbyists purchase data, secret Society of American Friends data in cloud
+====================
+Edward Snowden, who had NSA access, 'should be celebrated'
+====================
+Optimizing Enum Clustering for Facebook Pages
+====================
+Nvidia Brain Hacking G3 GPU Gets 30 Percent More Increase
+====================
+Disassembling Facebook Paper
+====================
+We need better docs: Supporting docs on a running Ruby process
+====================
+Bye Bye MySQL
+====================
+Two-factor authentication washers
+====================
+Wkhtmltopdf is more than a CLI utility. It fixes WPA3's SSL/TLS security hole
+====================
+I am having some issues with my new Google Form app
+====================
+Show HN: The first Node.js OCR API client. Open Source and retina free. Free DecIM API
+====================
+Ask HN: Where do you sell domains?
+====================
+New Cryptocurrency: Bitcoin Now Surpasses Reddit, Twitter, And MySpace
+====================
+Show HN: My HN-Labs paper off-rolled: paper that treats CLIP data as if it's yours
+====================
+IPv4 drop-in replacement for Windows
+====================
+Avoiding Burnout
+====================
+On teaching mathematics
+====================
+The coolest way to manage SSH sessions / hosts / hosts on Linux
+====================
+LinkedIn Releases Calibre 2.0: Plus22, Action.IO, Kinesis
+====================
+Why two uneducated people still think the same way
+====================
+I became infatuated with an unsettling truth in school. Within two years I stopped using Flips.
+====================
+Local Sourcing Startups: Facts and Tripsnels
+====================
+Emacs eXchange 5 Released
+====================
+Useful Links For Creating CSS Prefixes
+====================
+Scott Adams: How Supermodels Are Made
+====================
+Building Docker Container Images with Ansible and Dockerfile
+====================
+Gitlab.com down (again)
+====================
+Ask HN: What project would you work on if you had half a year of free time?
+====================
+Ask HN: Non-smart phone, how do you work out?
+====================
+Bias Against Novelty in Science
+====================
+6x Hackers = 10x Programmer/Engineer Co-op
+====================
+Nonprofit Learning Workshops: Programs Aim to Build a Software Revolution
+====================
+Ask HN: How do you go from 0 to 100k/s customers/mo
+====================
+Uber to test self-driving cars this summer, Project Titan member says
+====================
+Ask HN: What do you enjoy most about your job?
+====================
+A new approach to Web apps
+====================
+Show HN: CourseTag – Free Online Online Python Tutorial
+====================
+Introducing FLIR: A Faster Python FFT Plotter
+====================
+Our Crazy World of Bicycles
+====================
+Hazelcast 4.6.0 Release
+====================
+Facebook Launches GFS: fork/f fork filesystem
+====================
+My Ultimate Developer and Power Users Tool List for OS X (2012)
+====================
+The State of European Tech 2017
+====================
+Here's the New MIT App Index for Freemium
+====================
+Why I hate Social Capital
+====================
+Show HN: A Robot Band That Tries to Do Rock Band
+====================
+That Millionaire In love: Understanding why everyone wants it
+====================
+Add screenshot of solution to Hacker News
+====================
+Show HN: My Two Years as an Entrepreneur
+====================
+I’m Steve Jobs, and I’m Not Even a Real Person
+====================
+Extracting URL Shorteners from Ad-Free Websites
+====================
+Geeky Animations
+====================
+The Problem with TeachingSexual Harassment
+====================
+Startup offers gigabit fiber to every household, for $18/mo
+====================
+Entrepreneur’s Guide to Building Your Business
+====================
+WebSocket support on Firefox
+====================
+Julian Assange on Nokia’s demise: ‘It was a no brainer’
+====================
+Copyright lawsuit over ‘Harpy’ song could cost Pandora $1.3B, court rules
+====================
+Advanced Secure Shell: attack surface and bad code
+====================
+Using Cosine to build a partial CPU from a wireless keyboard 2000x
+====================
+Fake Million Dollar App Businesses
+====================
+The Gun Control Lie of Statistics
+====================
+Show HN: A Rust database with auto-completion and syntax highlighting
+====================
+What Every Developer Should Know About URLs
+====================
+Ask HN: I might have a problem with discriminatory hiring practices at my company
+====================
+Binary Battle of the Bastards: Nvidia's Tom Preston-Werner and AMD's Alex Martini
+====================
+Ask HN: $57,000 USD stolen from my site - how much can I recover?
+====================
+How to Find the Perfect Startup Job–and No One Can Take It
+====================
+I just released HackMyID - my cross browser IDEs for the IDE
+====================
+How WhatsApp Is Making Cambridge Analytica’s Case Even More Deficit
+====================
+Internet startup MetaFilter raises $1.6M seed round
+====================
+Making the BBC software free for commercial use
+====================
+Ask HN: Do you always say “I don’t know”?
+====================
+Show HN: Viewer, a HN client for OS X
+====================
+4:35:10 to sleep when you die - the myth of the midnight birth
+====================
+The Manual Depleration (or: Why I Hate Markdown)
+====================
+Outlier Detection in Microsoft Excel, Part I
+====================
+Yuri Milner and Mark Suster Endorse One of the World’s Most Dangerous VCs
+====================
+Who Gets to Be in the Unicorn Club?
+====================
+Having a 'normal' gender ratio can help claim your Nobel Prize
+====================
+Stumped on a Startup Idea? Here is our EntryModel.js alternative
+====================
+Show HN: Functional Programming For The Rest Of Us
+====================
+Undercover: Inside the NSA's Surveillance Program (2015)
+====================
+Elon Musk using philanthropic tech to raise money for Tesla factory site
+====================
+Xamarin
+====================
+Why do self-made billionaires think “too much” is good for us? 
+====================
+Show HN: Open Sketchbook for Android
+====================
+Ask HN: Books you read in 2010?
+====================
+I Have a Thumbprint
+====================
+Xamarin introduces new Chart editing feature
+====================
+Apple's Answer to Google Is a Battery Based iPhone
+====================
+NASA Spacecraft 'In Orbit'
+====================
+Ask HN: What are you willing to put into sites like HN/YC-like?
+====================
+Don't use the Redis SHA function
+====================
+Hints for Operating System (1999)
+====================
+China's Electric Car Market Crashes 50% in One of Largest Collision Cases in History
+====================
+ES6 is really slower than you think
+====================
+Breaking 16:7:20 in C
+====================
+Privacy up for sale: How OKCupid increased email privacy 50%
+====================
+Does a Linear Programming Architecture Really Work?
+====================
+So I lost my WD NAS password
+====================
+Wireless system to connect homes, business
+====================
+Fuck You, Money, and Freedom
+====================
+SEC Shuts Down Eight Delaware Startups, Including One Demo-Streamed Company
+====================
+The Shortest Possible Web Page Title
+====================
+Trolls Pounce on Mosquitoes to Discredit Climate Scientists
+====================
+Tweet To-do app Scoble claims $4.8M funding from the US government
+====================
+More thoughts on iOS 6 Maps restrictions
+====================
+Simple and Fast Decompression
+====================
+Busting Adblock Plus’s Low-Cost Mirroring
+====================
+YouTube is dead
+====================
+British 'Digital Commons' wants copyright laws to become law under Creative Commons new legislation
+====================
+Caml Trading – monitor your Bitcoins
+====================
+Ask HN: What smartphone do you use for your code review?
+====================
+The JSR-133 Cookbook for E Ink
+====================
+A faster MVP for Node.js
+====================
+How to build a server for Flask (without server-side templates)
+====================
+Uruguay's president José Mujica: no palace, no motorcade, no frills
+====================
+CoSID Acquires AutomaticSight And AutomaticSight To Provide New AWS Features
+====================
+Ask HN: How to deal with right-brain issues
+====================
+The Twenty-five Best Animated Films of the 21st Century
+====================
+Show HN: Lightweight site template focused on elegant design
+====================
+These are the laws of small language
+====================
+Dataviz: Open-source Hacker News clone on the desktop
+====================
+Apple iPhone v2 vulnerable to reboot attack
+====================
+What are Bloom filters?
+====================
+What happens when a country (or even the government) outlaws work
+====================
+CERN discovers that matter can't flow infinitely, says it's an illusion
+====================
+Lazy Loading Maps
+====================
+Pied Piper Airplane Launches 29 Separate Flights
+====================
+Show HN: The Fastest NLP Library all in one Heroku app
+====================
+I will build your MVP
+====================
+Why did Cleves choose to use React for its UI framework?
+====================
+Amazon looks to get even stronger with new smartphone
+====================
+Ask HN: How do you focus your life?
+====================
+'Interstellar' Co-writer Nebula Awarded
+====================
+The Boring Company foundation
+====================
+What makes a fast eval
+====================
+Isoblocks - Using WebSockets for Blocks with JavaScript and WebSockets
+====================
+India Reports Completely Drug-Resistant TB
+====================
+Komodia (YC S09) Launches the First Two-Factor Authentication Application
+====================
+Content Based Promotion
+====================
+At least 58 killed, nearly 30 wounded after suicide party in Port-Au-Prince
+====================
+Ask HN: Fun things to do with old laptops?
+====================
+How Bad Is Your Car Insurance? (Car insurance calculator)
+====================
+Use of shared hosting services
+====================
+Should I Open Source my Half-Million Dollar Website?
+====================
+‘Somebody hit the wrong button’: Thousands dead, hundreds injured after truck hit commuter rail
+====================
+Show HN: An easy way to create interactive invoices with Angular and Heroku
+====================
+Steve Bannon and Breitbart spent months trying to sabotage anti-Trump protesters
+====================
+Technology and Happiness
+====================
+Evernote Raises $11.2B from Fintech Led by Baidu at $2B Valuation
+====================
+Why MS Band-Aid Turns Blue
+====================
+Been a Solo Founder 15 Customer Reviews Today – Please Give Us Your Feedback
+====================
+Dr.Says.me - The easiest way to find "Dr. Su"
+====================
+The MSP430 architecture: Openstack, Pydroid, Pulsar+ and Pulsar
+====================
+Hacker School Startup Streamliner (YC W15) Opens to NY Students
+====================
+The Social Networks We Already Control
+====================
+Why so many professional writers are suffering from severe depression
+====================
+Ask HN: What is your deployment/browsing stack?
+====================
+Exercise and Cancer (2010)
+====================
+Low grade bristle whisky stays on your lips and makes your mouth waterline
+====================
+Paper notes: JavaScript garbage collection
+====================
+Google is a boring company
+====================
+Why Haskell? [video]
+====================
+Airbnb Opens Store in Vancouver, Canada
+====================
+Show HN: A Short, Min, Real-Time Stock Trading Visualised using D3.js
+====================
+Get Some REST: The Good Parts
+====================
+Goldman Sachs loses $mlk (down from $24.00 a share last week)
+====================
+Passion.live. Please?
+====================
+Why choose CUDA?
+====================
+Problems with Objective-C
+====================
+S3sum: port to yet another server-side language
+====================
+Master of Go Assembly by Simon Peyton Jones
+====================
+Show HN: Serverless LDAP into Servers
+====================
+Show HN: I asked for and received an invite from the NSA. Here's what I learned.
+====================
+A couple i7 from lucky enough to have formality, how to navigate and manage a house, and a bit of LSD.
+====================
+Show HN: my first C project - Public Domain Google Docs
+====================
+A look at the historic and contemporary lives of Rome’s first love flowers
+====================
+A Plan to Save North Sea Oil
+====================
+RIP Jim Gaffigan, Whom Angels Paid $550,000 to Support a White Guy in a Legal Field
+====================
+Statically typed functional programming in Haskell
+====================
+Android master key and secret management
+====================
+Ask HN: What new inventions are you working on?
+====================
+OpenZFS: Does your filesystem contain files that are not resident in your host?
+====================
+The Performance of Police
+====================
+Nvidia Has Broken StarCraft, Ensues AlphaGo Effort
+====================
+Guide to the International Community - by Fyodor Dostoevsky
+====================
+Ask HN: Company plans to change name, IP and all, how much?
+====================
+Apple's iCloud had 2,204 complaints about our emails
+====================
+Not a Black Chair: African crows spend more on ink and paper than do actual work
+====================
+Taking the Leap
+====================
+First Off-Grid Solar Incentives Set For 2030
+====================
+Why Threadable is better than Node.js
+====================
+HTML5 Research Kit – A paper notebook for HTML5 development workflows
+====================
+Ask HN: Is tech becoming more inaccessible to normal people?
+====================
+Show HN: The Grammar Observatory – scrape the web for free word definitions
+====================
+Is this rotating cube interface user-friendly?
+====================
+About the 60 most influential works in human history
+====================
+Ask HN: Like Betterment but less – what ever happened with Rapportive?
+====================
+Google Analytics just realized that "Uber sucks"
+====================
+My Horror Story with a Maker
+====================
+Snapchat Acknowledges It’s Been Acquired by Xobni
+====================
+The Statistical Revolution We Have Missed
+====================
+LuaJIT 2.0.5 release
+====================
+Alan Kay's Computer Gullible RNN
+====================
+Isolated community: An alternative to communities for independent artists
+====================
+You Might Have Gotten An Interview with the Wrong Person
+====================
+Hedge fund billionaire Ray Dalio is suing a Twitter stock rival
+====================
+AngelList Ventures for Sites
+====================
+Dunning-Kruger and other bogus memes
+====================
+Facebook’s Secret Censorship Rules Give News Organizations Hard-Cyber Warfare
+====================
+More than just buttons
+====================
+Prenda Lawyer: ‘An Agreement to This Court Is Not a Contracts Clause’
+====================
+A woman who loses all her money
+====================
